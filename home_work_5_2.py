@@ -1,6 +1,3 @@
-# number1 = int(input('Введіть перше число: '))
-# number2 = int(input('Введіть друге число: '))
-# action = input('Введіть дію(+, -, *, /) : ')
 
 i = 'Y'
 while i == 'Y':
